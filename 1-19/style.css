@@ -1,0 +1,120 @@
+.a{
+    height: 100px;
+    width: 400px;
+    background-color:#FFCE7a
+
+}
+
+
+.a-1{
+    height: 60px;
+    width: 160px;
+    float:right;
+    margin: 20px 20px 0px 0px;
+    display: flex;
+    background-color:white
+   
+
+}
+
+.a-2{
+    height: 40px;
+    width: 40px;
+    margin: 10px 5px 10px 10px;
+    background-color:#C2FFC8
+   
+
+}
+
+.a-3{
+    height: 40px;
+    width: 40px;
+    margin: 10px 5px 10px 5px;
+    background-color:#C2FFC8
+   
+
+}
+
+.a-4{
+    height: 40px;
+    width: 40px;
+    margin: 10px 10px 10px 5px;
+    background-color:#C2FFC8
+   
+
+}
+
+
+.b{
+    height: 250px;
+    width: 400px;
+    display: flex;
+
+}
+
+.c{
+    height: 100px;
+    width: 400px;
+    background-color:#BEA5FF
+
+}
+
+.b-1{
+    height: 250px;
+    width: 150px;
+    background-color:#9DDDF4
+
+}
+
+.b-2{
+    height: 250px;
+    width: 250px;
+    background-color:#C2FFC8
+
+}
+
+.b-3{
+    height: 50px;
+    width: 150px;
+    margin: 40px 60px 10px 40px;
+    display: grid;
+    background-color:white
+
+}
+
+.b-4{
+    height: 50px;
+    width: 150px;
+    margin: 5px 60px 10px 40px;
+    display: grid;
+    background-color:white
+
+
+}
+
+.b-5{
+    height: 50px;
+    width: 150px;
+    margin: 10px 60px 40px 40px;
+    display: grid;
+    background-color:white
+    
+}
+
+
+
+.c{
+    height: 100px;
+    width: 400px;
+    background-color:#BEA5FF
+
+}
+
+.pink{
+    height: 40px;
+    width: 140px;
+    margin: 5px 5px 5px 5px;
+    background-color:#FFC2C5
+   
+
+}
